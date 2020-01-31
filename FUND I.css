@@ -1,0 +1,146 @@
+.box {
+  display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    padding: 20px;
+}
+
+body {background-color:linen;
+  font-size: 20px;
+  }
+
+
+.tituloviaee {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border-radius: 15px;
+  grid-row: 2;
+  border: 5PX solid black;
+  padding: 20px;
+}
+
+.calculando {
+  max-width: 80%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.logotipoviae {
+  color: white;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.tituloweb {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.sexto {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.setimo {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.oitavo {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.nono {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.avaliaçãofund {
+  grid-columns: span 3;
+}
+
+.avafund{
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.img6 {
+  max-height: 100%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.img7 {
+  max-width: 100%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.img8 {
+  max-width: 80%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.img9 {
+  max-width: 80%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.avalimage {
+  max-width: 90%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+footer {background-color: grey;
+border-radius: 15px;
+padding: 20px;
+}

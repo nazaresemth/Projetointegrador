@@ -1,0 +1,178 @@
+.box {
+  display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 50px;
+    padding: 20px;
+}
+
+body {background-color:linen;
+  font-size: 20px;
+  }
+
+.VIAEPRIMEDIO {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.EDUDIG {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.projetodevida {
+  grid-column: span 2;
+}
+
+.PROVIDA {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.COMPETENCIAS {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.habilidades {
+  grid-column: span 2;
+}
+
+.HAB {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.PROTRI {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.aval1medio {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+}
+
+.AREASDOCONHECIMENTO{
+  grid-column: span 4;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+}
+
+}
+.areasdosconhecimentos {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 4;
+}
+
+.linguagem {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.matemática {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.cienciasnat {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.cienciashum {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+
+.avalimage2 {
+  max-width: 90%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+footer {background-color: grey;
+  border-radius: 15px;
+  padding: 20px;
+}

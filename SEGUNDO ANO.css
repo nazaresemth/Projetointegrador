@@ -1,0 +1,152 @@
+.box {
+  display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 50px;
+    padding: 20px;
+}
+
+body {background-color:linen;
+  font-size: 20px;
+  }
+
+.educacaodigital2 {
+  grid-column: span 2;
+}
+.EDUDIG2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+
+}
+
+.trilhar2 {
+  grid-column: span 2;
+}
+
+.PROTRI2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+
+}
+
+.AREASDOCONHECIMENTO2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 4;
+}
+
+.linguagem2 {
+
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.imglingua {
+  max-width: 70%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+  }
+
+.matemática2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.matema {
+  max-width: 70%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.cienciasnat2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.cienat {
+  max-width: 70%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.cienciashum2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+.cienciassoc {
+  max-width: 60%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+.aval1medio2 {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  padding: 20px;
+}
+
+.avaliação2medio {
+  max-width: 90%;
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+}
+
+footer  {background-color: grey;
+  border-radius: 15px;
+  padding: 20px;
+}
