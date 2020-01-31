@@ -1,0 +1,57 @@
+.box {display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 50px;
+  padding: 20px;
+}
+body {background-color:linen;
+  font-size: 20px;
+ }
+
+.logo {
+  padding: 30px;
+  display:block;
+  border-radius: 15px;
+  margin: auto;
+
+}
+.competencias {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  border: 5px solid black;
+  border-radius: 15px;
+  grid-row: 2;
+  grid-column: span 3;
+  padding: 20px;
+}
+
+
+.VALORES {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: maroon;
+  grid-column: span 3;
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+nav a {
+  align-items: center;
+  color: white;
+  font-family: monospace;
+  background-color: maroon;
+  padding: 20px;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+footer {background-color: grey;
+border-radius: 15px;
+padding: 20px;
+}
